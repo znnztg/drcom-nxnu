@@ -1,7 +1,7 @@
 drcom-nxnu
 ==========
 
-宁夏师范学院(NXNU）Linux下校园网接入客户端
+宁夏师范学院(NXNU)Linux下校园网接入客户端
 
 
 
